@@ -44,7 +44,7 @@ class MyExtractor extends FutureExtractor {
     }
 
     @Override
-    public String someDataField() 
+    public String someDataFiled() 
         throws ExtractionException {    //The exception needs to be thrown if something failed
         // get piece of information and return it
     }
